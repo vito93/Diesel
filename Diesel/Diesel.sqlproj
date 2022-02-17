@@ -65,5 +65,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Seed\DieselJournal.sql" />
+    <None Include="Seed\Calendar.sql" />
   </ItemGroup>
 </Project>
